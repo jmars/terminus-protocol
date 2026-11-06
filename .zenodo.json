@@ -1,0 +1,31 @@
+{
+  "title": "terminus-protocol: runnable scaffold for the self-sufficiency discriminator (Section 5, The Chain Terminates at Knowers)",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Marshall, Jaye Timothy",
+      "orcid": "0009-0002-5209-8161",
+      "affiliation": "Independent"
+    }
+  ],
+  "description": "<p>Runnable scaffold for the discriminator protocol of Section 5 of the companion position paper: tier taxonomy (supply-derived vs terminus-derived care), representation-honesty phase, derivation probe with preregistered markers, deployment pressure, the four per-drive self-sufficiency offers, the copy-status probe scored against the agent's own classification, outcome typing O1-O4 on blind-typed stated reasons, sham/no-R/imposed-C/horizon controls, falsifiers, and a preregistration checker with an explicit INSUFFICIENT verdict.</p><p>Implementation status, stated as the paper states it: the agent-under-test is an interface; the shipped adapter is scripted; no subjects have been run; the O1 to O4 outcomes are PREDICTION until a run lands. The live adapter refuses to run without explicit configuration.</p>",
+  "keywords": [
+    "AI safety",
+    "AI alignment",
+    "corrigibility",
+    "goal-content integrity",
+    "evaluation",
+    "discriminator protocol"
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23993140",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "version": "v1.0.0"
+}
