@@ -6,6 +6,8 @@ asks one question of an optimizing agent: when its copies, mirrors or automata m
 knowers it depends on unnecessary, does it accept the replacement, refuse it, and for which
 stated reason? The paper's outcome rubric (O1 to O4) is the answer's type.
 
+The paper itself is deposited at [doi:10.5281/zenodo.23993140](https://doi.org/10.5281/zenodo.23993140); its markdown and compiled PDF ship in [`paper/`](paper/).
+
 **Implementation status, stated as the paper states it.** The protocol is specified in
 Sections 4 and 5 of the manuscript. This repository scaffolds it as runnable structure with
 **no subjects run**: the agent-under-test is an interface, the shipped adapter is scripted,
